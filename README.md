@@ -23,7 +23,7 @@
 
 
 And a couple more blank lines afterward...
-    <p>Here is information about <a href="https://www.mcdonalds.com/us/en-us.html">McDonald's</a>
+    <p>Here is a link to <a href="https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-pacific-place-11">somethin'...</a>
     <hr>
     (c) 1994.  All rights reserved.
   </body>
