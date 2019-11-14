@@ -1,6 +1,6 @@
 <html>
   <title>best title</title>
-  <body bgcolor="orange">
+  <body bgcolor="silver">
     <h1>Bienvenue</h1>
     <hr>
     <p>Bonjour. Je m'appelle Jocelyn, j'ai un poisson d'ange et une grande personnalité.
@@ -25,6 +25,7 @@
 And a couple more blank lines afterward...
     <p>Here is a link to <a href="https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-pacific-place-11">somethin'...</a>
     <hr>
+    <a herf
     (c) 1994.  All rights reserved.
   </body>
 </html>
