@@ -25,6 +25,9 @@
 And a couple more blank lines afterward...
     <p>Here is a link to <a href="https://www.amctheatres.com/movie-theatres/seattle-tacoma/amc-pacific-place-11">somethin'...</a>
     <hr>
+    <a href="IMG_6124.JPG">
+      <img src="IMG_6124.JPG" width="100">
+    </a> 
     (c) 1994.  All rights reserved.
   </body>
 </html>
